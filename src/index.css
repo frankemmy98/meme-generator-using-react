@@ -19,7 +19,8 @@ nav {
   height: 90px;
 }
 
-nav>img {
+nav>.img {
+  color: #ffd700;
   width: 30px;
   height: 30px;
   margin-right: 15px;
